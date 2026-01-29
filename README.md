@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Aniruddha Sain
 
-🎓 Computer Science Student | 💻 Web Developer | 🤖 AI & ML Enthusiast
+🎓 Computer Science Student | 💻 Web Developer | 🤖 AI Enthusiast
 
 I’m passionate about building practical projects, learning modern technologies, and improving myself every day.
 I enjoy working on full-stack web apps, AI-based tools, and problem-solving projects.

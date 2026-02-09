@@ -31,8 +31,6 @@ I enjoy working on full-stack web apps, AI-based tools, and problem-solving proj
 ![](https://nirzak-streak-stats.vercel.app/?user=Aniruddhasain7&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruddhasain7&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aniruddhasain7&theme=highcontrast&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)

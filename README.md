@@ -24,10 +24,6 @@ I enjoy working on full-stack web apps, AI-based tools, and problem-solving proj
   <img src="https://github.com/Aniruddhasain7/Aniruddhasain7/blob/main/arcade-space.svg" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/Aniruddhasain7/Aniruddhasain7/blob/output/space-shooter.svg" />
-</p>
-
 
 
 # 💻 Tech Stack:

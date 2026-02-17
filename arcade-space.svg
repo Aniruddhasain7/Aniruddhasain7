@@ -1,0 +1,63 @@
+<svg width="800" height="220" viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg">
+
+<style>
+@keyframes stars {
+  from { transform: translateX(0); }
+  to { transform: translateX(-200px); }
+}
+
+@keyframes shipMove {
+  0% { transform: translateX(0px); }
+  50% { transform: translateX(20px); }
+  100% { transform: translateX(0px); }
+}
+
+@keyframes laser {
+  0% { opacity: 1; }
+  100% { opacity: 0; transform: translateX(400px); }
+}
+
+.stars {
+  animation: stars 20s linear infinite;
+}
+
+.ship {
+  animation: shipMove 2s ease-in-out infinite;
+}
+
+.laser {
+  animation: laser 1s linear infinite;
+}
+</style>
+
+<!-- Background -->
+<rect width="800" height="220" fill="black"/>
+
+<!-- Stars -->
+<g class="stars" fill="white">
+  <circle cx="100" cy="50" r="2"/>
+  <circle cx="200" cy="120" r="2"/>
+  <circle cx="350" cy="80" r="2"/>
+  <circle cx="500" cy="40" r="2"/>
+  <circle cx="650" cy="150" r="2"/>
+  <circle cx="750" cy="60" r="2"/>
+</g>
+
+<!-- Spaceship -->
+<g class="ship">
+  <polygon points="60,110 100,90 100,130" fill="cyan"/>
+</g>
+
+<!-- Laser -->
+<rect x="100" y="108" width="60" height="4" fill="cyan" class="laser"/>
+
+<!-- Alien -->
+<rect x="500" y="90" width="30" height="30" fill="lime"/>
+<rect x="650" y="120" width="30" height="30" fill="magenta"/>
+
+<!-- Title -->
+<text x="400" y="30" fill="cyan" font-size="22" text-anchor="middle" font-family="monospace">
+🚀 Destroying Bugs Since 2024 👾
+</text>
+
+</svg>

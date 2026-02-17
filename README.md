@@ -13,8 +13,6 @@ I enjoy working on full-stack web apps, AI-based tools, and problem-solving proj
 
 💼 Internship experience in AI-based application development
 
-🎯 Goal: Become a skilled software engineer
-
 📍 India
 
 ## 🌐 Socials:

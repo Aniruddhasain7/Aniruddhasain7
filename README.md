@@ -12,10 +12,6 @@
 
 ## 🚀 About Me
 
-<table>
-<tr>
-<td width="70%" valign="top">
-
 I'm a **Computer Science student** based in India, passionate about building practical, full-stack projects and exploring how AI can power real-world tools. I like turning ideas into working products — clean UI, solid backend, and a bit of AI where it adds value.
 
 - 🌱 Currently deepening my skills in **Full-Stack Development & AI**
@@ -23,17 +19,6 @@ I'm a **Computer Science student** based in India, passionate about building pra
 - 💼 Interned on **AI-based application development**
 - 📍 Based in **India**
 - ⚡ Always shipping something small, always learning something new
-
-</td>
-<td width="30%" align="center">
-
-![](https://img.shields.io/badge/Status-Building-000000?style=for-the-badge&logoColor=00d9ff&labelColor=000000&color=00d9ff)
-![](https://img.shields.io/badge/Focus-AI%20%2B%20Web-000000?style=for-the-badge&labelColor=000000&color=0047ab)
-![](https://img.shields.io/badge/Open%20to-Collab-000000?style=for-the-badge&labelColor=000000&color=00d9ff)
-
-</td>
-</tr>
-</table>
 
 <br/>
 

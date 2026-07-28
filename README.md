@@ -2,7 +2,9 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,25:021B45,60:0047AB,100:00D9FF&text=Aniruddha%20Sain&fontColor=00D9FF&fontSize=60&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Web%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=24&animation=fadeIn"/>
 </p>
 
+<div align="center">
 <a href="https://linkedin.com/in/aniruddha-sain-706220280"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00d9ff"/></a> <a href="https://x.com/SainAniruddha"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=00d9ff"/></a> <a href="mailto:aniruddhasain315@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00d9ff"/></a>
+</div>
 
 <br/>
 
@@ -14,7 +16,6 @@ I'm a **Computer Science student** based in India, passionate about building pra
 - 🧠 Most excited about **Web Development** and **Artificial Intelligence**
 - 💼 Interned on **AI-based application development**
 - 📍 Based in **India**
-- ⚡ Always shipping something small, always learning something new
 
 <br/>
 

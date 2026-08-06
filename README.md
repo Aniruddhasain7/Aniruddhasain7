@@ -73,19 +73,6 @@ I'm a **Computer Science student** based in India, passionate about building pra
 </tr>
 
 <tr>
-<td align="center"><b>AI / Data</b></td>
-<td>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=4DABCF"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-
-</td>
-</tr>
-
-<tr>
 <td align="center"><b>Tools</b></td>
 <td>
 

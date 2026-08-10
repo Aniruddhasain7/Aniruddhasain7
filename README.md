@@ -21,13 +21,10 @@ backend APIs to designing databases and integrating AI/ML capabilities.
 - 🧠 Generative AI & LLM Applications
 - 🌐 Web Application Development
 - 📊 Data-driven Solutions
-- ☁️ AI & Cloud Technologies
-
-> **Building useful things. Learning continuously. Improving every day.**
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -37,23 +34,20 @@ backend APIs to designing databases and integrating AI/ML capabilities.
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/Aniruddhasain7">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=Aniruddhasain7&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF"
-    width="500"
-  />
+    src="https://github-stats-extended.vercel.app/api?username=Aniruddhasain7&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF"/>
 </a>
 
 
 <a href="https://github.com/Aniruddhasain7">
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=Aniruddhasain7&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=FFFFFF"
-    width="330"
-  />
+/>
 </a>
 
 </div>
@@ -61,7 +55,7 @@ backend APIs to designing databases and integrating AI/ML capabilities.
 
 ---
 
-# 🔥 Contribution Streak
+## 🔥 Contribution Streak
 
 <div align="center">
 
@@ -73,7 +67,7 @@ backend APIs to designing databases and integrating AI/ML capabilities.
 
 ---
 
-# 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -83,33 +77,22 @@ backend APIs to designing databases and integrating AI/ML capabilities.
 
 </div>
 
----
-
-# 🧠 Currently Exploring
-
-<div align="center">
-
-| 🌐 | 🤖 | 🧠 | ☁️ |
-|:---:|:---:|:---:|:---:|
-| **Full-Stack Development** | **Artificial Intelligence** | **Generative AI** | **Cloud & DevOps** |
-
-</div>
 
 ---
 
 
-# 💼 Open To
+## 💼 Open To
 
 <div align="center">
 
-**Software Development** · **Full-Stack Development** · **Backend Development**  
+**Software Development** · **Full-Stack Development** · **Frontend Development**  
 **AI / ML** · **Generative AI** · **Web Applications**
 
 </div>
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -131,6 +114,6 @@ backend APIs to designing databases and integrating AI/ML capabilities.
 
 <div align="center">
 
-### `> Code. Create. Learn. Repeat. ⚡`
+#### `> Code. Create. Learn. Repeat. ⚡`
 
 </div>

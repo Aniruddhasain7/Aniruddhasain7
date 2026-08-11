@@ -109,11 +109,3 @@ backend APIs to designing databases and integrating AI/ML capabilities.
 </a>
 
 </div>
-
----
-
-<div align="center">
-
-#### `> Code. Create. Learn. Repeat. ⚡`
-
-</div>

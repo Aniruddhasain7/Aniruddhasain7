@@ -85,7 +85,7 @@ backend APIs to designing databases and integrating AI/ML capabilities.
 
 <div align="center">
 
-**Software Development** · **Full-Stack Development** · **Frontend Development**  
+**Full-Stack Development**   
 **AI / ML** · **Generative AI** · **Web Applications**
 
 </div>

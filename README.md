@@ -55,17 +55,7 @@ backend APIs to designing databases and integrating AI/ML capabilities.
 
 ---
 
-## 🔥 Contribution Streak
 
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com/?user=Aniruddhasain7&theme=black-ice&hide_border=true&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=FFFFFF"
-/>
-
-</div>
-
----
 
 ## 📈 Contribution Activity
 

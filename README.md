@@ -28,7 +28,7 @@ backend APIs to designing databases and integrating AI/ML capabilities.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,python,java,javascript,react,html,css,tailwind,nodejs,express,flask,mongodb,mysql,docker,figma,netlify,vercel,npm,supabase,sklearn,ubuntu,git,github,postman&perline=12&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,python,java,javascript,react,html,css,tailwind,nodejs,express,flask,mongodb,mysql,docker,figma,netlify,vercel,npm,supabase,sklearn,pytorch,git,github,postman&perline=12&theme=dark" />
 
 </div>
 
